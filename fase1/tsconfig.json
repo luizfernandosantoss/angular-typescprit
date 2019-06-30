@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "outDir": "fase1/dist",//Toda javaScript gerado irá para pasta dist
+    "noEmitOnError": false //não gerar o javaScript caso tiver erro no TypeScript
+  }
+}
